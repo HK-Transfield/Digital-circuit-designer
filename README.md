@@ -1,5 +1,6 @@
 # Digital-circuit-designer
-A simple Digital Circuit Design program that engineers could use to design and test simple digital circuits.
+The main goal of this simple Digital Circuit Design program is to allow engineers to design and test simple digital circuits.
+This was created for an assignment.
 
 ## Overview
 This program allows the user to create various kinds of logic gates (AND/OR/NOT etc.), input sources and output 
